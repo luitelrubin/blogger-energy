@@ -6,6 +6,14 @@
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>//localhost:1313/helloworld/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/helloworld/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;I am an undergraduate student at Tribhuvan University, Nepal, with an interest in developing applications for the web using Django APIs and React frontend.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

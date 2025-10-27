@@ -5,8 +5,8 @@ theme = "ghostwriter"
 [Params]
     mainSections = ["post"]
     intro = true
-    headline = "Thoughts And Reflections"
-    description = "Rubin Luitel's"
+    headline = "Rubin Luitel's"
+    description = "Thoughts And Reflections"
     github = "https://github.com/luitelrubin"
     twitter = "https://twitter.com/luitelrubin"
     facebook = "https://facebook.com/luitelrubin"
