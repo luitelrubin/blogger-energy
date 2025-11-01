@@ -11,12 +11,29 @@ theme = "ghostwriter"
     twitter = "https://twitter.com/luitelrubin"
     facebook = "https://facebook.com/luitelrubin"
     email = "info@rubinluitel.com.np"
-    #opengraph = true
+    opengraph = true
     dateFormat = "Mon, Jan 2, 2006"
+    
+    sharefacebook = true
+    sharetwitter = true
+    sharelinkedin = true
 
 [Permalinks]
-    post = "/:contentbasename/"
+    post = "/:year/:month/:day/:contentbasename/"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[menu]
+
+  [[menu.main]]
+  name = "Blogs"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "/page/about/"
+  weight = 2
+  

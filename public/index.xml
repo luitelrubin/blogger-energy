@@ -6,13 +6,20 @@
     <description>Recent content on Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>On project management</title>
+      <link>//localhost:1313/2025/11/01/project-mgmt/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/2025/11/01/project-mgmt/</guid>
+      <description>&lt;h1 id=&#34;what-is-project-management&#34;&gt;What is project management?&lt;/h1&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia, arcu nec pulvinar gravida, libero neque fermentum est, vitae consequat nibh risus a tortor. Integer euismod, urna id feugiat tristique, mauris orci feugiat nunc, sed dictum urna lorem non augue. Phasellus ac mi sed nibh cursus bibendum. Curabitur tincidunt, odio et pulvinar efficitur, augue commodo lectus, vitae faucibus nisl non tellus. Nulla facilisi. Sed sit amet nunc ut magna pharetra vestibulum. Aliquam erat volutpat. Duis pulvinar, nibh sit amet tristique volutpat, lorem nisl pharetra sapien, a tristique arcu risus vel nibh. Aenean a nibh id nibh faucibus gravida. Maecenas viverra, velit sed convallis malesuada, nisl nisl cursus justo, a tincidunt lectus nunc in urna. Praesent sed arcu sit amet enim convallis tincidunt. Quisque sit amet sapien sed sapien luctus aliquet. Donec blandit, justo vitae iaculis faucibus, purus leo venenatis erat, at pretium nunc lectus id neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer non lorem vitae elit bibendum aliquet. Suspendisse potenti. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nam non sem vitae nibh feugiat volutpat. Sed ultricies, lorem id vehicula ultricies, arcu arcu fermentum nunc, vitae interdum velit nisi sit amet urna. Proin a sapien at sapien vulputate consequat. Cras dictum, mi a gravida fermentum, orci nisl volutpat sapien, sit amet tristique sapien orci sed velit. Integer sed nunc id lectus efficitur faucibus sed at urna. Phasellus vitae est in mauris varius non ut libero eu facilisis.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About me</title>
-      <link>//localhost:1313/helloworld/</link>
+      <link>//localhost:1313/page/about/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/helloworld/</guid>
+      <guid>//localhost:1313/page/about/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;&#xA;&lt;p&gt;I am an undergraduate student at Tribhuvan University, Nepal, with an interest in developing applications for the web using Django APIs and React frontend.&lt;/p&gt;</description>
     </item>
   </channel>

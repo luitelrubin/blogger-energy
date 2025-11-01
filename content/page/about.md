@@ -3,6 +3,7 @@ title: "About me"
 date: 2023-08-19
 author: "Rubin Luitel"
 draft: false
+type: "page"
 ---
 
 # About Me
